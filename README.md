@@ -35,7 +35,6 @@ The dataset was obtained from [DataCamp Workspace](https://www.datacamp.com/data
 This analysis was performed entirely in **Microsoft Excel** and includes:
 
 - PivotTables for grouped analysis  
-- Conditional Formatting for trend spotting  
 - Charts and Dashboards (Bar, Line, Donut, Cards, etc.)
 - Calculated metrics for stream totals, genre share, and platform comparison
 
